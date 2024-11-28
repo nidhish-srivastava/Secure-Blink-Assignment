@@ -60,5 +60,3 @@ Dataset link - **https://www.kaggle.com/datasets/heptapod/titanic**(refer to lin
 5. **GET `/stats`** : Fetches stats
 6. **GET `/insights`** : Fetches insights
 
-## Postman API documentation
-**https://api.postman.com/collections/32317711-20917173-b6df-4db7-bbb9-7dd10baebf9a?access_key=PMAT-01JDSERE10WEJ4MD4H2YSKMD5X**
