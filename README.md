@@ -42,7 +42,8 @@ cd Secure-Blink-Assignment
 
 ### 1. Running Python Data Processing Script:
 - The Titanic dataset CSV file in the python directory.
-Dataset link - **https://www.kaggle.com/datasets/heptapod/titanic**(refer to link for dataset explaination)
+Dataset link - **https://www.kaggle.com/datasets/heptapod/titanic**
+(refer to link for dataset explaination)
 - Run the script: `python data_processing.py`.
 - This will process the data, normalize it, generate statistics, and send them to the Express.js API.
 
